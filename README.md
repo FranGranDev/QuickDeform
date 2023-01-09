@@ -1,2 +1,6 @@
-# Quick Mesh Deformation<br>
--Script uses C# Jobs for fast calculation
+# Mesh Deformation
+-Made by Unity
+
+
+-Script allow simulate mesh deformation<br>
+-Uses C# Jobs for fast calculation
